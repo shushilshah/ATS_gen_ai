@@ -20,8 +20,8 @@ This project aims to develop a comprehensive Applicant Tracking System (ATS) to 
 
 # Technologies Used:
 
-. API KEY - google gemini api key
-. VS code
-. Python
-. Streamlit
-. PyPDF2
+1. API KEY - google gemini api key
+2. VS code
+3. Python
+4. Streamlit
+5. PyPDF2
